@@ -1,1 +1,1 @@
-node:18.15-bullseye-slim
+node:18.15-buster-slim
